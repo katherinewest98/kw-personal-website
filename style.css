@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-    color: #0B03C4;
+    color: #57bc8d;
     font-family: brightFont;
     font-size: 120px;
     font-weight: 525;
@@ -29,7 +29,7 @@ h2 {
 }
 
 h2:hover {
-    color: #FF69B4;
+    color: #bc5786;
 }
 
 p {
@@ -41,20 +41,20 @@ p {
 
 button {
     background-color: #fcfcfc;
-    border: 2px solid #0b03c4;
+    border: 2px solid #57bc8d;
     border-radius: 15px;
     box-shadow: 4px 4px;
-    color: #0b03c4;
+    color: #57bc8d;
     cursor: pointer;
     display: block;
     font-family: coolveticaFont;
-    font-size: 25px;
+    font-size: 27px;
     margin: 60px auto;
     padding: 15px 30px;
     transition: all 200ms ease-in-out;
 }
 
 button:hover {
-    border: 2px solid #FF69B4;
-    color: #FF69B4;
+    border: 2px solid #bc5786;
+    color: #bc5786;
 }
