@@ -1,3 +1,9 @@
+function nameMessage() {
+  alert("You can also call me Kat! 🐱")
+}
+let myName = document.querySelector("h2");
+myName.addEventListener("click", nameMessage);
+
 const button = document.querySelector("button");
 
 const jsConfetti = new JSConfetti();

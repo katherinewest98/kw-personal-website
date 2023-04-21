@@ -60,6 +60,7 @@ h1 {
 
 h2 {
     color: #FE5E71;
+    cursor: pointer;
     font-family: brightFont;
     font-size: 120px;
     font-weight: 525;
