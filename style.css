@@ -69,6 +69,8 @@ h2 {
 
 h2:hover {
     color: #01A1FE;
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
 }
 
 img {
@@ -87,7 +89,7 @@ p {
 }
 
 button {
-    background-color: #fcfcfc;
+    background-color: #ECF8D5;
     border: 2px solid #5B9D2B;
     border-radius: 15px;
     box-shadow: 4px 4px;
@@ -102,6 +104,7 @@ button {
 }
 
 button:hover {
+    background-color: #FEEBF6;
     border: 2px solid #F46DBF;
     color: #F46DBF;
 }
