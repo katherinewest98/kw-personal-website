@@ -102,7 +102,7 @@ p {
 }
 
 button {
-    background-color: #ECF8D5;
+    background-color: #f3fcd9;
     border: 2px solid #5B9D2B;
     border-radius: 15px;
     box-shadow: 4px 4px;
@@ -113,11 +113,18 @@ button {
     font-size: 27px;
     margin: 60px auto;
     padding: 15px 30px;
+    position: relative;
     transition: all 150ms ease-in-out;
 }
 
 button:hover {
-    background-color: #FEEBF6;
+    background-color: #FDF6FD;
     border: 2px solid #F46DBF;
     color: #F46DBF;
+}
+
+button:active {
+    top: 2px;
+    left: 1px;
+    box-shadow: none;
 }
